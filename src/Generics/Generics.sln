@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreGenerics", "PreGenerics\PreGenerics.csproj", "{4D242C51-B517-40DC-ADE0-FD04DEE4A923}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicGenerics", "BasicGenerics\BasicGenerics.csproj", "{6B81C19A-FE00-47A3-B428-F6FCE32D685F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4D242C51-B517-40DC-ADE0-FD04DEE4A923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D242C51-B517-40DC-ADE0-FD04DEE4A923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D242C51-B517-40DC-ADE0-FD04DEE4A923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B81C19A-FE00-47A3-B428-F6FCE32D685F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B81C19A-FE00-47A3-B428-F6FCE32D685F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B81C19A-FE00-47A3-B428-F6FCE32D685F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B81C19A-FE00-47A3-B428-F6FCE32D685F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
